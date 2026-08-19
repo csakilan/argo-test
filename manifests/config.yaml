@@ -5,4 +5,4 @@ metadata:
   namespace: demo
 data:
   message: "served from git"
-  version: "1"
+  version: "2"
